@@ -10,3 +10,12 @@ This subdirectory includes scripts working with opencv, an open computer vision 
 
 ## algorithmia
 This subdirectory includes scripts working with Algorighmia, a machine learning and computer vision resource. You can call APIs that processes inputs and send outputs to your data://algo directory
+
+## scikit-image
+This subdirectory includes scripts working with scikit-image image processing techniques, i.e. edge detection. This is helpful for example, in starting to create a training set of images for object identification.
+
+## scikit-learn
+This subdirectory includes scripts working with scikit-learn basic functions to explore a dataset and run fits using basic models such as linear, logistic regression and stochastic gradient descent.
+
+## concepts
+This subdirectory includes concepts for building machine learning models for health and lifestyle applications.
