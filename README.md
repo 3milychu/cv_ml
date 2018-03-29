@@ -1,4 +1,4 @@
-# Computer and Machine Learning Templates
+# Computer Vision and Machine Learning Templates
 
 Included in this repo are go-to templates I've created to work with computer vision and machine learning models.
 
